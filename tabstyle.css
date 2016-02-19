@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+.knoppen li {
+    list-style-type: none;
+    float: left;
+}
+.knoppen li.actief {
+    background: crimson;
+}
+.paneel {
+    display: none;
+}
+.paneel actief {
+    display: block;
+}
+.paneel img {
+    max-width: 100%:
+}

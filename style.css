@@ -1,0 +1,74 @@
+body {
+	font-family: arial;
+	text-align: center;
+}
+
+.tabs {
+	overflow: hidden;
+	display: inline;
+}
+
+.tabs li{
+	float: left;
+	list-style-type: none;
+}
+
+.tabs li.actief {
+	
+}
+
+.paneel {
+/*	display: none;  */
+}
+
+.paneel.actief {
+	display: block !important;
+}
+
+.paneel img {
+	max-width: 100%;
+}
+
+#kek1 {
+	font-size: 24px;
+	margin-right: 5px;
+	text-decoration: none;
+	color: black;
+	border: solid 1px black;
+}
+
+#kek2 {
+	font-size: 24px;
+	margin-right: 5px;
+	text-decoration: none;	
+	color: black;
+	border: solid 1px black;
+}
+
+#kek3 {
+	font-size: 24px;
+	margin-right: 5px;
+	text-decoration: none;
+	color: black;
+	border: solid 1px black;
+}
+
+#kek4 {
+	font-size: 24px;
+	margin-right: 5px;
+	text-decoration: none;
+	color: black;
+	border: solid 1px black;
+}
+
+#sun {
+	margin-top: 10px;
+	border: solid 1px black;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
